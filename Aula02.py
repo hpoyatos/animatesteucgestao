@@ -31,3 +31,5 @@ if idade >= 18 and genero == "O:":
     print("então você precisa/ prestou o serviço militar obrigatorio")
 else:
     print("então você ainda não possui idade sufciente para prestar o serviço militar obrigatorios")    
+
+#parabéns!
