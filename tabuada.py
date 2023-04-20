@@ -1,3 +1,6 @@
+# Tabuada.py
+# Autor: Gabriel Melo Galvão
+
 # Solicitar ao usuário o número para o qual a tabuada será gerada
 numero = int(input("Digite o número para o qual você deseja a tabuada: "))
 
